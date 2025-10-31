@@ -9,8 +9,8 @@ Themes:
 
 | `black` | `red` | `green` | `yellow` | `blue` | `magenta` | `cyan` | `white` |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| ![#505050](https://placehold.co/60x40/505050/505050) | ![#DF2040](https://placehold.co/60x40/DF2040/DF2040) | ![#2DD296](https://placehold.co/60x40/2DD296/2DD296) | ![#FFBF00](https://placehold.co/60x40/FFBF00/FFBF00) | ![#207FDF](https://placehold.co/60x40/207FDF/207FDF) | ![#7855AA](https://placehold.co/60x40/7855AA/7855AA) | ![#13DAEC](https://placehold.co/60x40/13DAEC/13DAEC) | ![#D0D0D0](https://placehold.co/60x40/D0D0D0/D0D0D0) |
-| ![#808080](https://placehold.co/60x40/808080/808080) | ![#FF6680](https://placehold.co/60x40/FF6680/FF6680) | ![#67E4B6](https://placehold.co/60x40/67E4B6/67E4B6) | ![#FFDB70](https://placehold.co/60x40/FFDB70/FFDB70) | ![#66B2FF](https://placehold.co/60x40/66B2FF/66B2FF) | ![#AC8CD9](https://placehold.co/60x40/AC8CD9/AC8CD9) | ![#6EECF7](https://placehold.co/60x40/6EECF7/6EECF7) | ![#F0F0F0](https://placehold.co/60x40/F0F0F0/F0F0F0) |
+|  `#505050` ![#505050](https://placehold.co/60x40/505050/505050)| `#DF2040` ![#DF2040](https://placehold.co/60x40/DF2040/DF2040) | `#2DD296` ![#2DD296](https://placehold.co/60x40/2DD296/2DD296) | `#FFBF00` ![#FFBF00](https://placehold.co/60x40/FFBF00/FFBF00) | `#207FDF` ![#207FDF](https://placehold.co/60x40/207FDF/207FDF) | `#7855AA` ![#7855AA](https://placehold.co/60x40/7855AA/7855AA) | `#13DAEC` ![#13DAEC](https://placehold.co/60x40/13DAEC/13DAEC) | `#D0D0D0` ![#D0D0D0](https://placehold.co/60x40/D0D0D0/D0D0D0) |
+| `#808080` ![#808080](https://placehold.co/60x40/808080/808080) | `#FF6680` ![#FF6680](https://placehold.co/60x40/FF6680/FF6680) | `#67E4B6` ![#67E4B6](https://placehold.co/60x40/67E4B6/67E4B6) | `#FFDB70` ![#FFDB70](https://placehold.co/60x40/FFDB70/FFDB70) | `#66B2FF` ![#66B2FF](https://placehold.co/60x40/66B2FF/66B2FF) | `#AC8CD9` ![#AC8CD9](https://placehold.co/60x40/AC8CD9/AC8CD9) | `#6EECF7` ![#6EECF7](https://placehold.co/60x40/6EECF7/6EECF7) | `#F0F0F0` ![#F0F0F0](https://placehold.co/60x40/F0F0F0/F0F0F0) |
 
 ## Previews
 ### :microscope: Innovation <kbd>light</kbd>
